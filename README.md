@@ -57,3 +57,21 @@ PUT `/users/{id}`
 ### Delete User
 
 DELETE `/users/{id}`
+
+
+---
+
+## 🚀 Future Enhancements
+
+- Add Kafka for real-time event processing
+- Integrate Redis caching for faster performance
+- Implement JWT Authentication & Authorization
+- Add Swagger/OpenAPI documentation
+- Add Global Exception Handling
+- Use DTOs for secure API responses
+- Add Validation using Hibernate Validator
+- Convert project into Microservices Architecture
+- Dockerize application
+- Deploy on AWS/Render/Railway
+
+---
